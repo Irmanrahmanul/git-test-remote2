@@ -8,6 +8,12 @@
 <body>
     <h1>hello world</h1>
 
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+    
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem eos iusto dolores optio minus cumque, illum repellat cupiditate reprehenderit neque, minima soluta libero rerum sint, nostrum porro temporibus. Est, ad!</p>
 </body>
 </html>
